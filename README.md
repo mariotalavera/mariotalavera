@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<table>
+  <tr>
+    <td valign="top">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariotalavera&show_icons=true" />
+    </td>
+    <td valign="top">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotalavera&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **mariotalavera/mariotalavera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
